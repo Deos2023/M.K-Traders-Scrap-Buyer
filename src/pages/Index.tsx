@@ -6,6 +6,7 @@ import WhyChooseSection from "@/components/WhyChooseSection";
 import ContactSection from "@/components/ContactSection";
 import GallerySection from "@/components/GallerySection";
 import CTASection from "@/components/CTASection";
+import MapSection from "@/components/MapSection";
 import FooterSection from "@/components/FooterSection";
 import FloatingButtons from "@/components/FloatingButtons";
 import ScrollProgress from "@/components/ScrollProgress";
@@ -21,6 +22,7 @@ const Index = () => (
       <WhyChooseSection />
       <ContactSection />
       <GallerySection />
+      <MapSection />
       <CTASection />
     </main>
     <FooterSection />
