@@ -1,14 +1,31 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import StickyHeader from "@/components/StickyHeader";
+import HeroSection from "@/components/HeroSection";
+import AboutSection from "@/components/AboutSection";
+import ServicesSection from "@/components/ServicesSection";
+import WhyChooseSection from "@/components/WhyChooseSection";
+import ContactSection from "@/components/ContactSection";
+import GallerySection from "@/components/GallerySection";
+import CTASection from "@/components/CTASection";
+import FooterSection from "@/components/FooterSection";
+import FloatingButtons from "@/components/FloatingButtons";
+import ScrollProgress from "@/components/ScrollProgress";
 
-const Index = () => {
-  return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
-    </div>
-  );
-};
+const Index = () => (
+  <>
+    <ScrollProgress />
+    <StickyHeader />
+    <main>
+      <HeroSection />
+      <AboutSection />
+      <ServicesSection />
+      <WhyChooseSection />
+      <ContactSection />
+      <GallerySection />
+      <CTASection />
+    </main>
+    <FooterSection />
+    <FloatingButtons />
+  </>
+);
 
 export default Index;
