@@ -46,7 +46,7 @@ const FooterSection = () => (
       </div>
 
       <div className="border-t border-border mt-10 pt-6 text-center text-sm text-muted-foreground">
-        © 2026 M.K. Traders | All Rights Reserved
+        © 2026 M.K. Traders | All Rights Reserved || Developed & Maintained By <span className="text-accent"><a href="https://teamdeos.co.in/" target="_blank">Digital Exposure Online Service</a></span>
       </div>
     </div>
   </footer>
