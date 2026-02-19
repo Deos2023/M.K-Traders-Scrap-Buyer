@@ -23,7 +23,7 @@ const HeroSection = () => {
           <span className="text-gradient">in Kolkata</span>
         </h1>
         <p className="text-lg md:text-xl text-muted-foreground mb-2 max-w-2xl mx-auto">
-          Buying All Types of Industrial & Electronic Scrap Items
+          Buying All Types of Office & Electronic Scrap Items
         </p>
         <p className="font-heading text-sm tracking-[0.25em] uppercase text-metallic-light mb-10">
           A Better Tomorrow
