@@ -7,7 +7,7 @@ const ContactSection = () => {
   const details = [
     { icon: Building2, label: "Business Name", value: "M.K. Traders – Scrap Buyer" },
     { icon: User, label: "Owner", value: "Md. Zubair Alam" },
-    { icon: Phone, label: "Contact", value: "9874797979 / 9433987979", href: "tel:9874797979" },
+    { icon: Phone, label: "Contact", value: "9433987979", href: "tel:9433987979" },
     { icon: Mail, label: "Email", value: "M.zubair7979@gmail.com", href: "mailto:M.zubair7979@gmail.com" },
     { icon: MapPin, label: "Address", value: "B/33/H, Mirza Ghalib St., Kolkata – 700016" },
   ];

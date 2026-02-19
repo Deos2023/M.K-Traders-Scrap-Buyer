@@ -12,10 +12,10 @@ const CTASection = () => {
         </h2>
         <p className="text-muted-foreground text-lg mb-10">Contact Us for Immediate Pickup</p>
         <a
-          href="tel:9874797979"
+          href="tel:9433987979"
           className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-10 py-5 rounded-lg font-heading text-xl tracking-wider hover:bg-primary/90 transition-all pulse-glow"
         >
-          <Phone className="w-6 h-6" /> Call 9874797979
+          <Phone className="w-6 h-6" /> Call 9433987979
         </a>
       </div>
     </section>

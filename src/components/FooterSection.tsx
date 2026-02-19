@@ -31,8 +31,8 @@ const FooterSection = () => (
         <div>
           <h4 className="font-heading text-lg font-semibold mb-4 text-foreground">Contact Info</h4>
           <div className="space-y-3 text-sm text-muted-foreground">
-            <a href="tel:9874797979" className="flex items-center gap-2 hover:text-primary transition-colors">
-              <Phone className="w-4 h-4 text-primary" /> 9874797979 / 9433987979
+            <a href="tel:9433987979" className="flex items-center gap-2 hover:text-primary transition-colors">
+              <Phone className="w-4 h-4 text-primary" /> 9433987979
             </a>
             <a href="mailto:M.zubair7979@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors">
               <Mail className="w-4 h-4 text-primary" /> M.zubair7979@gmail.com

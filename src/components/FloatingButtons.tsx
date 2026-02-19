@@ -4,7 +4,7 @@ const FloatingButtons = () => (
   <>
     {/* WhatsApp */}
     <a
-      href="https://wa.me/919874797979"
+      href="https://wa.me/919433987979"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 w-14 h-14 rounded-full bg-[#25D366] flex items-center justify-center shadow-lg hover:scale-110 transition-transform"
@@ -15,7 +15,7 @@ const FloatingButtons = () => (
 
     {/* Sticky Call */}
     <a
-      href="tel:9874797979"
+      href="tel:9433987979"
       className="fixed bottom-6 left-6 z-50 w-14 h-14 rounded-full bg-primary flex items-center justify-center shadow-lg pulse-glow hover:scale-110 transition-transform"
       aria-label="Call Now"
     >

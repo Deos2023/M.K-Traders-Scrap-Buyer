@@ -42,7 +42,7 @@ const StickyHeader = () => {
             </a>
           ))}
           <a
-            href="tel:9874797979"
+            href="tel:9433987979"
             className="flex items-center gap-2 bg-primary text-primary-foreground px-4 py-2 rounded font-heading text-sm tracking-wider hover:bg-primary/90 transition-colors"
           >
             <Phone className="w-4 h-4" /> Call Now
@@ -67,7 +67,7 @@ const StickyHeader = () => {
             </a>
           ))}
           <a
-            href="tel:9874797979"
+            href="tel:9433987979"
             className="mx-6 mt-2 flex items-center justify-center gap-2 bg-primary text-primary-foreground px-4 py-3 rounded font-heading text-sm tracking-wider"
           >
             <Phone className="w-4 h-4" /> Call Now
